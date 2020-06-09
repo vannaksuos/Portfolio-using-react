@@ -36,3 +36,291 @@
     transform: rotate(360deg);
   }
 }
+
+header, footer {
+  background-color: white;
+}
+
+.main {
+  /* height: 100vh; */
+  position: relative;
+} 
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;    
+}
+
+
+body {
+  background-color: black;
+  color: black;
+
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  padding-left: 100px;
+  padding-top: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#profilePic {
+  float: right;
+  margin-right: 50px;
+  margin-top: 60px;
+  width: 647px;
+  height: 450px;
+}
+
+div {
+  text-align: center;
+}
+
+#about {
+  text-align: center;
+}
+
+.card {
+  margin-left: 20px;
+  margin-top: 40px;
+
+
+}
+
+#smallCards {
+  float: left;
+  margin-top: 40px;
+  margin-right: 40px;
+
+}
+
+#skills {
+  float: right;
+  margin-right: 50px;
+
+}
+
+#strength {
+  margin-left: 40px;
+}
+
+#personal {
+  margin-left: 40px;
+}
+
+
+#workExperiences {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: left;
+}
+
+#hobbies {
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+#project1 {
+  float: left;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+#project2 {
+  float: left;
+  margin-left: 80px;
+}
+
+a {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+}
+
+
+
+@media screen and (max-width: 1280px) {
+
+  body {
+      background-color: black;
+
+  }
+
+
+  h1 {
+      text-align: center;
+  }
+
+  div {
+      text-align: center;
+  }
+
+  a {
+      margin-right: 20px;
+      padding-left: 20px;
+  }
+
+  #profilePic {
+      margin-right: 20px;
+      padding-left: 20px;
+  }
+
+  .card {
+
+      float: left;
+      margin-right: 60px;
+      padding-left: 20px;
+
+  }
+
+  #about {
+      margin-right: 30px;
+      padding-left: 20px;
+
+  }
+}
+
+@media screen and (max-width: 662px) {
+
+  body {
+      background-color: black;
+
+  }
+
+
+  h1 {
+      text-align: center;
+  }
+
+  div {
+      text-align: center;
+  }
+
+  a {
+      margin-right: 5px;
+      padding-left: 5px;
+  }
+
+  #profilePic {
+      margin-right: 5px;
+      padding-left: 5px;
+  }
+
+  .card {
+
+      float: left;
+      margin-right: 20px;
+      padding-left: 5px;
+
+  }
+
+  #about {
+      margin-right: 30px;
+      padding-left: 5px;
+
+  }
+}
+
+@media screen and (max-width: 500px) {
+
+  body {
+      background-color: black;
+      align-items: center;
+      float: left;
+  
+
+  }
+
+
+  h1 {
+      text-align: center;
+  }
+
+  div {
+      text-align: center;
+  }
+
+  a {
+      margin-right: 5px;
+      padding-left: 2px;
+  }
+
+  #profilePic {
+      margin-right: 5px;
+      padding-left: 2px;
+  }
+
+  .card {
+
+      float: left;
+      margin-right: 1px;
+      padding-left: 1px;
+
+  }
+
+  #about {
+      margin-right: 5px;
+      padding-left: 2px;
+
+  }
+  .smallCards {
+      margin-right: 2px;
+      padding-left: 2px;
+      float: left;
+  }
+}
+
+@media screen and (max-width: 200px) {
+
+  body {
+      background-color: black;
+      align-items: center;
+
+  }
+
+
+  h1 {
+      text-align: center;
+  }
+
+  div {
+      text-align: center;
+  }
+
+  a {
+      margin-right: 1px;
+      padding-left: 1px;
+  }
+
+  #profilePic {
+      margin-right: 1px;
+      padding-left: 1px;
+  }
+
+  .card {
+
+      float: left;
+      margin-right: 1px;
+      padding-left: 1px;
+
+  }
+
+  #about {
+      margin-right: 1px;
+      padding-left: 1px;
+
+  }
+  .smallCards {
+      margin-right: 1px;
+      padding-left: 1px;
+      float: left;
+  }
+}
