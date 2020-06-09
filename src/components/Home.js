@@ -74,7 +74,7 @@ function Home() {
             <span className="badge badge-light">Devotion to Deadlines</span>
         </div>
         </div>
-    <div id="hobbies" className="card text-white bg-primary mb-2" style={{maxWidth: '40rem'}}>
+    <div id="hobbies" className="card text-white bg-primary mb-2" style={{maxWidth: '120rem'}}>
         <div className="card-header">Hobbies</div>
         <div className="card-body">
             <p className="card-text">I spend a lot of time on the computer, always trying to learn new things daily. I love

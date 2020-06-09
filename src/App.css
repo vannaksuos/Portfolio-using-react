@@ -38,7 +38,7 @@
 }
 
 header, footer {
-  background-color: white;
+  background-color: rgb(44, 38, 230);
 }
 
 .main {
@@ -49,7 +49,7 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100%;
-  height: 2.5rem;    
+  height: 1.5rem;    
 }
 
 
@@ -70,9 +70,9 @@ h1 {
 #profilePic {
   float: right;
   margin-right: 50px;
-  margin-top: 60px;
+  margin-top: 70px;
   width: 647px;
-  height: 450px;
+  height: 470px;
 }
 
 div {
@@ -85,7 +85,7 @@ div {
 
 .card {
   margin-left: 20px;
-  margin-top: 40px;
+  margin-top: 50px;
 
 
 }
@@ -94,6 +94,7 @@ div {
   float: left;
   margin-top: 40px;
   margin-right: 40px;
+  margin-left: 40px;
 
 }
 
