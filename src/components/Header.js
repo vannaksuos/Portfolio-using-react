@@ -15,7 +15,7 @@ function Header() {
                     <a class="nav-link" href="/projects">Projects</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/resume">Resume</a>
+                    <a class="nav-link" href="https://docs.google.com/document/d/1TG1AxdkdHTwQYl2IIOfe3yy8XWEfSndD1zRivSKYvm8/edit?usp=sharing" target="_blank">Resume</a>
                 </li>
                 </ul>
         </nav>
