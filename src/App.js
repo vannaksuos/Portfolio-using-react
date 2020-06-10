@@ -25,7 +25,7 @@ export default function App() {
           <Route path="/projects">
             <Projects />
           </Route>
-          <Route path="/resume">
+          <Route path="https://my.indeed.com/p/vannaks-lapt36a">
             <Resume />
           </Route>
           <Route path="/">
