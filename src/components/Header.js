@@ -15,7 +15,7 @@ function Header() {
                     <a class="nav-link" href="/projects">Projects</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://1drv.ms/b/s!AqPS_UBKccTmnZ4DL6E53a7_gm_hIQ?e=bVAUwQ" target="_blank">Resume</a>
+                    <a class="nav-link" href="https://1drv.ms/b/s!AqPS_UBKccTmnZ4DL6E53a7_gm_hIQ?e=m54Ds4" target="_blank">Resume</a>
                 </li>
                 </ul>
         </nav>
