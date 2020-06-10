@@ -34,8 +34,6 @@ function Home() {
             <span className="badge badge-success">Jquery</span>
             <span className="badge badge-danger">MySQL</span>
             <span className="badge badge-warning">Sequelize</span>
-            <span className="badge badge-info">MongoDB</span>
-            <span className="badge badge-light">IndexedDB</span>
             <span className="badge badge-secondary">GitHub</span>
             <span className="badge badge-success">JawsDB</span>
             <span className="badge badge-danger">Heroku</span>
@@ -45,10 +43,6 @@ function Home() {
             <span className="badge badge-secondary">express</span>
             <span className="badge badge-danger">MVC</span>
             <span className="badge badge-secondary">Travis ci</span>
-            <span className="badge badge-danger">MySQL</span>
-            <span className="badge badge-warning">Sequelize</span>
-            <span className="badge badge-info">MongoDB</span>
-            <span className="badge badge-light">IndexedDB</span>
             <span className="badge badge-success">react.js</span>
             </p>
     </div>
