@@ -43,10 +43,8 @@ function Home() {
             <span className="badge badge-info">API</span>
             <span className="badge badge-light">NodeJs</span>
             <span className="badge badge-secondary">express</span>
-            <span className="badge badge-success">Jquery</span>
             <span className="badge badge-danger">MVC</span>
             <span className="badge badge-secondary">Travis ci</span>
-            <span className="badge badge-success">Jquery</span>
             <span className="badge badge-danger">MySQL</span>
             <span className="badge badge-warning">Sequelize</span>
             <span className="badge badge-info">MongoDB</span>
