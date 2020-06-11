@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
     return(
         <footer>
-       You can contact me at VannakSuos@gmail.com
+            @ Copy rights Reserved by Vannak Suos
         </footer>
     )
 }
