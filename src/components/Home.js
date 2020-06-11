@@ -31,10 +31,14 @@ function Home() {
         <div className="card-body">
             <p className="card-text"><span className="badge badge-info">Html/Css</span>
             <span className="badge badge-secondary">Javascript</span>
-            <span className="badge badge-success">Jquery</span>
+            <span className="badge badge-success">Json</span>
+            <span className="badge badge-warning">Jquery</span>
+            <span className="badge badge-danger">Ajax</span>
+            <span className="badge badge-secondary">Real Time Cloud Database via Firebase</span>
             <span className="badge badge-danger">MySQL</span>
             <span className="badge badge-warning">Sequelize</span>
             <span className="badge badge-secondary">GitHub</span>
+            <span className="badge badge-light">Git</span>
             <span className="badge badge-success">JawsDB</span>
             <span className="badge badge-danger">Heroku</span>
             <span className="badge badge-warning">bootstrap</span>
@@ -42,8 +46,16 @@ function Home() {
             <span className="badge badge-light">NodeJs</span>
             <span className="badge badge-secondary">express</span>
             <span className="badge badge-danger">MVC</span>
+            <span className="badge badge-info">MongoDB</span>
+            <span className="badge badge-warning">Mongoose</span>
+            <span className="badge badge-light">Templating Engines</span>
+            <span className="badge badge-secondary">Sessions</span>
+            <span className="badge badge-danger">Writing Test</span>
+            <span className="badge badge-warning">Creating APIs</span>
+            <span className="badge badge-success">User Authentication</span>
             <span className="badge badge-secondary">Travis ci</span>
-            <span className="badge badge-success">react.js</span>
+            <span className="badge badge-success">React.js</span>
+
             </p>
     </div>
         </div>
@@ -74,9 +86,9 @@ function Home() {
             learning to code, I enjoy a relaxing day of fishing, its something new to me. I just picked it up not to
             long ago. Its one of the few things you can enjoy during this Covid- 19 lock down. I also enjoy playing
             Xbox one, when ever I need to just take a break from the computer.</p>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSkCigRyRXQIxgLZPkTn-AnWz2xSvsoyHK-N7fgzWTumMQgDoc&usqp=CAU" width="100px" height="100px" />
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQx9ZfmhLc1g3lbwFl-wfXm2OP7dJZCWeRYAL0BIsQ1Di4-CK_A&usqp=CAU" width="100px" height="100px" />
-            <img src="https://i.ytimg.com/vi/0E44DClsX5Q/maxresdefault.jpg" width="100px" height="100px" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSkCigRyRXQIxgLZPkTn-AnWz2xSvsoyHK-N7fgzWTumMQgDoc&usqp=CAU" style={{width:"100px", height:"100px", margin:"20px"}}  />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQx9ZfmhLc1g3lbwFl-wfXm2OP7dJZCWeRYAL0BIsQ1Di4-CK_A&usqp=CAU" style={{width:"100px", height:"100px", margin:"20px"}} />
+            <img src="https://i.ytimg.com/vi/0E44DClsX5Q/maxresdefault.jpg" style={{width:"100px", height:"100px", margin:"20px"}}/>
         </div>
         </div>
         </div>

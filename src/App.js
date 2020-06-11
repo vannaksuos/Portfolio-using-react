@@ -10,7 +10,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import Resume from "./components/Resume";
+
 
 
 export default function App() {
@@ -26,7 +26,6 @@ export default function App() {
             <Projects />
           </Route>
           <Route path="https://my.indeed.com/p/vannaks-lapt36a">
-            <Resume />
           </Route>
           <Route path="/">
             <Home />
