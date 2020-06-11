@@ -1,23 +1,12 @@
 import React from "react";
+import Project from "./Project";
 
 
 function Projects() {
     return (
     <div>
-         <div id="project1" className="card" style={{width: '20rem'}}>
-    <img src="https://images.beano.com/store/7236922d3a5f1bd14429d100961bea556fd8d882929b829daa6bc6618a48?auto=compress%2Cformat&dpr=2.625&w=390" className="card-img-top" alt="emoji making silly faces" />
-    <div className="card-body">
-      <h5 className="card-title">Group Project 1</h5>
-      <div className="card-text"><strong> Github URL</strong></div>
-      <div className="card-text">https://github.com/mfomin93/Giph-Joke-Generator
-      </div>
-      <div className="card-text"><strong>Deployed Github URL</strong></div>
-      <div className="card-text">https://mfomin93.github.io/Giph-Joke-Generator/
-      </div>
-      <a href="https://mfomin93.github.io/Giph-Joke-Generator/" target="_blank" className="btn btn-primary">Check it out</a>
-    </div>
-  </div>
-  <br />
+      <Project img="https://images.beano.com/store/7236922d3a5f1bd14429d100961bea556fd8d882929b829daa6bc6618a48?auto=compress%2Cformat&dpr=2.625&w=390" title=" Group Project 1" github="https://github.com/mfomin93/Giph-Joke-Generator" heroku="https://mfomin93.github.io/Giph-Joke-Generator/"  />
+
   <div id="project2" className="card" style={{width: '20rem'}}>
     <img src="https://www.thej.org/clientuploads/Volunteer/Volunteer_Buttons_Volunteer_Opportunities.png" className="card-img-top" alt="multiple hands" />
     <div className="card-body">
